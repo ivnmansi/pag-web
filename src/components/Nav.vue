@@ -27,7 +27,7 @@
   <nav class="flex h-16 w-full items-center justify-between border-b border-surface-800 px-6">
 
     <div class="logo text-xl font-bold minecraft">
-        <router-link to="/"">
+        <router-link to="/">
           > IVNMANSI <span class="blink">_</span>
         </router-link>
     </div>

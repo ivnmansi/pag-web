@@ -9,7 +9,7 @@ const router = createRouter({
     { path: '/projects', name: 'Projects', component: () => import('../views/Projects.vue') },
   ],
   scrollBehavior() {
-    return { top: 0, behavior: 'smooth' }
+    return { top: 0 }
   },
 })
 
